@@ -9,6 +9,7 @@
 - [ ]  필터버블을 경계하세요
 - [ ]  검색엔진 선택 가이드
 - [ ]  인터넷 실명제 폐지에 동참해주세요
+- [ ]  메일 선택 가이드
 
 ## 나는 인터넷에서 숨길 것이 없는데요?
 
@@ -29,6 +30,10 @@
 하지만 2005년, 에릭 슈미트는 CNET의 기자가 자신의 사생활을 기사화했다는 이유로 구글 직원들에게 CNET 기자들과 [대화하지 말라고 지시](https://news.hitb.org/content/google-blacklists-cnet-reporters-publishing-eric-schmidts-personal-info)했습니다.
 
 또 다른 예로 "프라이버시는 더 이상 사회적 규범이 아니다", "프라이버시의 시대는 끝났다(The Age of Privacy is Over)"라고 [공언](http://www.hani.co.kr/arti/science/future/885587.html)한바 있는 페이스북의 마크 주커버그는 결혼 후 자신의 사생활을 지키기 위해 팔로알토에 있는 [자신의 집 주변의 주택 4채를 사들였습니다](https://abcnews.go.com/Business/mark-zuckerberg-buys-homes-surrounding-palo-alto-calif/story?id=20542803).
+
+## 무서운 사실은, 감시당하고 있다는 사실을 망각하고 있다는 것 입니다.
+
+(준비중)
 
 ## 어떻게 인터넷에서 나의 사생활을 "최대한" 지킬수 있을까요?
 
