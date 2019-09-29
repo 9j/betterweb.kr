@@ -34,7 +34,7 @@
 
 - [기기에서 사생활을 보호하세요](https://spreadprivacy.com/device-privacy-protection/)
 - VPN을 사용하고, 더 나아가 Tor 를 사용하세요
-- DNS를 [1.1.1.1](https://1.1.1.1)로 바꾸세요. (8.8.8.8을 사용하지 마세요)
+- DNS를 [1.1.1.1](https://1.1.1.1)로 바꾸세요. 혹은 유료 DNS를 사용하세요 (8.8.8.8을 사용하지 마세요)
 - 사생활 보호 친화적인 브라우저를 사용하세요
     - Desktop
         - Firefox
@@ -48,6 +48,11 @@
         - Bromite (Android)
         - snowhaze (iOS)
         - Tor 지원 브라우저
+    - 브라우저 애드온
+        - uBlock Origin
+        - Cookie AutoDelete
+        - HTTPS Everywhere
+        - Privacy Badger
 - 사생활 보호 친화적인 검색엔진을 사용하세요
     - [Duckduckgo](https://duckduckgo.com/) (제일 한글검색 잘됨)
     - [Qwant](https://www.qwant.com/)
