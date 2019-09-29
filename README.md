@@ -49,6 +49,7 @@
         - snowhaze (iOS)
         - Tor 지원 브라우저
 - 사생활 보호 친화적인 검색엔진을 사용하세요
+    - [Duckduckgo](https://duckduckgo.com/) (제일 한글검색 잘됨)
     - [Qwant](https://www.qwant.com/)
     - [Startpage](https://www.startpage.com/)
     - [searx](https://searx.me/)
