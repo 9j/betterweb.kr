@@ -125,8 +125,9 @@
   - [필터버블을 경계](https://spreadprivacy.com/google-filter-bubble-study/)하세요.
   - 크롬의 시크릿탭은 사용자를 온전히 [지켜주지 않습니다](https://spreadprivacy.com/is-private-browsing-really-private/).
 - 불가능에 가깝겠지만, 카카오톡을 사용하지 마세요, 사용하더라도 비밀 채팅을 이용하세요
-  - Signal
-  - Telegram
+  - 대안으로 사용할 수 있는 메신저는 다음과 같습니다.
+    - Signal
+    - Telegram
 
 ### 기술을 이용해서 개인 정보 보호하기
 
