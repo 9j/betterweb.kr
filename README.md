@@ -81,7 +81,9 @@
 ### 향상된 방법
 
 - Window를 사용하지 마세요! Mac OS를 사용하세요, 제일 좋은 방법은 Linux 를 사용하는 것입니다.
-  - [elementary OS](https://elementary.io/)는 Linux 의 한 종류로, Window와 Mac의 대안 OS로 각광받고 있습니다.
+  - Ubuntu 는 가장 유명한 Linux 배포판중 하나입니다.
+  - [Qubes OS](https://www.qubes-os.org/)는 프리즘 폭로 사건의 폭로자 에드워드 스노든이 사용하고 있는걸로 알려진 Linux의 배포판입니다.
+  - [elementary OS](https://elementary.io/)는 Linux 배포판의 한 종류로, Window와 Mac의 대안 OS로 각광받고 있습니다.
 - 비밀번호를 사이트마다 다르게 설정하세요. 아무리 당신이 개인 정보를 철저하게 관리해도, 개인 정보를 가지고 있는 기업(서비스, 앱)에서 개인 정보가 유출된다면 아무런 소용이 없습니다.
   - 쉬운 관리를 위해 패스워드 관리 툴을 사용하세요
     - LastPass
@@ -92,24 +94,28 @@
     - Firefox lockwise
 - 사생활 보호 친화적인 브라우저를 사용하세요 (IE, Chrome 을 사용하지 마세요)
   - Desktop
-    - Firefox (recommend)
-    - Tor Browser
+    - [Firefox](https://firefox.com/) (recommend)
+      - Tor Browser가 이 브라우저를 기반으로 만들어집니다.
     - [Brave](https://brave.com/) (recommend)
-    - [Chromium Portable](http://crportable.sourceforge.net/)
+      - Tor network 사용모드가 내장되어 있습니다.
+    - [Tor Browser](https://www.torproject.org/) (Tor network 사용)
   - Mobile
-    - Duckduckgo (recommend)
+    - [Duckduckgo](https://duckduckgo.com/app) (recommend)
     - Brave (recommend)
-    - Firefox
+    - Firefox (recommend)
       - Firefox focus (recommend)
     - Bromite (Android)
     - snowhaze (iOS)
-    - Tor 지원 브라우저
+    - [Tor Browser](https://guardianproject.info/fdroid/) (Android) (Tor network 사용)
+    - [Onion Browser](https://onionbrowser.com/) (iOS) (Tor network 사용)
   - 브라우저 애드온
-    - uBlock Origin
+    - uBlock Origin (recommend)
+      - 이 애드온을 Privacy Badger와 같이 사용하세요
+    - HTTPS Everywhere (recommend)
+    - Privacy Badger (recommend)
     - Cookie AutoDelete
-    - HTTPS Everywhere
-    - Privacy Badger
-    - Decentraleyes
+    - Decentraleyes (recommend)
+    - Snowflake (recommend)
   - 자세히 알아 보고 싶다면 [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/test.md) 를 확인해보세요
 - 사생활 보호 친화적인 검색엔진을 사용하세요
   - [Duckduckgo](https://duckduckgo.com/) (제일 한글검색 잘됨)
