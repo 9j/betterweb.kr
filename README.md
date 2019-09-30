@@ -35,7 +35,7 @@
 
 에릭 슈미트는 [2009년의 한 인터뷰](https://www.eff.org/deeplinks/2009/12/google-ceo-eric-schmidt-dismisses-privacy)에서 구글의 사생활 침해 논란과 관련해서 "누구도 당신이 한 어떤 일을 알기를 원치 않는다면, 우선 그 일을 하지 말아야 할것이다." 라고 말했습니다.
 
-하지만 2005년, 에릭 슈미트는 CNET의 기자가 자신의 사생활을 기사화했다는 이유로 구글 직원들에게 CNET 기자들과 [대화하지 말라고 지시](https://news.hitb.org/content/google-blacklists-cnet-reporters-publishing-eric-schmidts-personal-info)했습니다.
+하지만 2005년, 에릭 슈미트는 CNET의 기자가 자신의 사생활을 기사화했다는 이유로 구글 직원들에게 CNET 기자들과 [대화하지 말라고 지시](https://news.hitb.org/content/google-blacklists-cnet-reporters-publishing-eric-schmidts-personal-info)했습니다. (웃긴 점은 CNET의 기자는 구글에 에릭 슈미트를 검색하여 기사를 작성했습니다)
 
 또 다른 예로 "프라이버시는 더 이상 사회적 규범이 아니다", "프라이버시의 시대는 끝났다(The Age of Privacy is Over)"라고 [공언](http://www.hani.co.kr/arti/science/future/885587.html)한바 있는 페이스북의 마크 주커버그는 결혼 후 자신의 사생활을 지키기 위해 팔로알토에 있는 [자신의 집 주변의 주택 4채를 사들였습니다](https://abcnews.go.com/Business/mark-zuckerberg-buys-homes-surrounding-palo-alto-calif/story?id=20542803).
 
