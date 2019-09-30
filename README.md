@@ -110,7 +110,7 @@
     - HTTPS Everywhere
     - Privacy Badger
     - Decentraleyes
-  - 자세히 알아 보고 싶다면 [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](/articles/test.md) 를 확인해보세요
+  - 자세히 알아 보고 싶다면 [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/test.md) 를 확인해보세요
 - 사생활 보호 친화적인 검색엔진을 사용하세요
   - [Duckduckgo](https://duckduckgo.com/) (제일 한글검색 잘됨)
   - [Qwant](https://www.qwant.com/)
@@ -135,4 +135,4 @@
 
 ## 더 알아보기
 
-- [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./Untitled-97a7c1a8-c1b9-4c5b-974d-987ef006cf94.md)
+- [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/test.md)
