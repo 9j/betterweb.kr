@@ -91,11 +91,17 @@
     - Dashlane
     - Bitwarden
     - Keeper
-    - Firefox lockwise
 - 사생활 보호 친화적인 브라우저를 사용하세요 (IE, Chrome 을 사용하지 마세요)
   - Desktop
     - [Firefox](https://firefox.com/) (recommend)
       - Tor Browser가 이 브라우저를 기반으로 만들어집니다.
+      - Firefox의 [about:config에서 개인 정보와 관련된 설정을 변경](https://www.privacytools.io/browsers/#about_config)하세요
+        - 소개된 설정중 일부는 고민해 봐야됩니다.
+          - network.http.referer.XOriginPolicy
+            - @0vv는 이 설정을 1로 사용하고있습니다.
+          - network.http.referer.XOriginTrimmingPolicy
+            - @0vv는 이 설정을 0으로 사용하고있습니다.
+        - browser.search.region 을 US 로 변경하세요
     - [Brave](https://brave.com/) (recommend)
       - Tor network 사용모드가 내장되어 있습니다.
     - [Tor Browser](https://www.torproject.org/) (Tor network 사용)
@@ -110,12 +116,13 @@
     - [Onion Browser](https://onionbrowser.com/) (iOS) (Tor network 사용)
   - 브라우저 애드온
     - uBlock Origin (recommend)
-      - 이 애드온을 Privacy Badger와 같이 사용하세요
+      - uBlock Origin (광고차단, 추적기 차단) + Privacy Badger (쿠키 차단 및 관리) + HTTPS Everywhere (HTTP요청을 HTTPS로 변경) 조합은 훌륭합니다.
     - HTTPS Everywhere (recommend)
     - Privacy Badger (recommend)
-    - Cookie AutoDelete
     - Decentraleyes (recommend)
-    - Snowflake (recommend)
+    - Cookie AutoDelete
+    - Snowflake
+      - 검열되는 국가들의 인터넷 사용자를 위해 당신이 브라우저로 Snowflake Proxy가 되어주세요
   - 자세히 알아 보고 싶다면 [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/test.md) 를 확인해보세요
 - 사생활 보호 친화적인 검색엔진을 사용하세요
   - [Duckduckgo](https://duckduckgo.com/) (제일 한글검색 잘됨)
