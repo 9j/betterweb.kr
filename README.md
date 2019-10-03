@@ -1,9 +1,6 @@
 # 더 나은 웹
 
-```bash
-# 이 문서는 https://github.com/0vv/betterweb.kr 에서 관리되고 있습니다.
-# 문의 사항은 이슈로 남겨주세요
-```
+> 축하해주세요, 캘리포니아주에서 [소비자프라이버시법(CCPA)](https://fortune.com/2019/09/13/what-is-ccpa-compliance-california-data-privacy-law/)이 통과되었습니다!
 
 ## 웹은 혼자 돌아다니기엔 위험합니다.
 
@@ -64,17 +61,26 @@
 
 - [소니 픽처스 해킹 사건](https://namu.wiki/w/%EC%86%8C%EB%8B%88%20%ED%94%BD%EC%B2%98%EC%8A%A4#s-5.2)
 
+---
+
 ## 어떻게 웹에서 나의 사생활을 "최대한" 지킬수 있을까요?
 
 ### 정부와 기업 혹은 개인 에게서 개인 정보 보호하기
 
 - 소셜 미디어를 되도록이면 자제하세요 (사용을 안하는게 제일 좋습니다)
   - 꼭 사용해야 한다면 항상 누군가가 보고있음을 명심하세요
-    - 페이스북 설정으로 개인 정보를 보호하기 (업데이트 예정)
-    - 인스타그램 설정으로 개인 정보를 보호하기 (업데이트 예정)
-    - 트위터 설정으로 개인 정보를 보호하기 (업데이트 예정)
+    - 다른 사용자에게서 나의 정보를 지키세요 (단, 여전히 기업들은 당신의 정보를 보고있습니다)
+      - 페이스북 설정으로 개인 정보를 보호하기 (업데이트 예정)
+      - 인스타그램 설정으로 개인 정보를 보호하기 (업데이트 예정)
+      - 트위터 설정으로 개인 정보를 보호하기 (업데이트 예정)
   - 꼭 필요한 개인 정보만을 입력하세요
     - 이름외에 더 적어야 하나요? 안써도 그만인 것들은 적지 마세요.
+  - 페이스북이 판매하는 상품은 우리 입니다.
+    - 페이스북이 스마트폰의 마이크를 통해 사용자의 대화를 엿듣고 있습니다.
+      - [Facebook Paid Contractors to Transcribe Users’ Audio Chats](https://www.bloomberg.com/news/articles/2019-08-13/facebook-paid-hundreds-of-contractors-to-transcribe-users-audio)
+      - [Facebook Just Gave 1.3 Billion Messenger Users A Reason To Delete Their Accounts](https://www.forbes.com/sites/kateoflahertyuk/2019/08/14/did-facebook-just-give-13-billion-users-a-reason-to-delete-their-account)
+      - [Yes, You Should Delete Facebook](https://medium.com/s/story/yes-you-should-delete-facebook-heres-why-bc623a3b4625)
+    - 페이스북이 Messenger, whatsapp, Instagram, Oculus 를 소유중인 사실을 알고 있나요?
 - [링크드인에서 나의 개인 정보를 보호하세요(영문)](https://betterweb.qwant.com/how-to-protect-your-privacy-on-linkedin/)
 - [Window PC, MAC OS, Android, iOS 의 설정을 통해 사생활을 보호하세요(영문)](https://spreadprivacy.com/device-privacy-protection/)
 
@@ -83,7 +89,7 @@
 - Window를 사용하지 마세요! Mac OS를 사용하세요, 제일 좋은 방법은 Linux 를 사용하는 것입니다.
   - Ubuntu 는 가장 유명한 Linux 배포판중 하나입니다.
   - [Qubes OS](https://www.qubes-os.org/)는 프리즘 폭로 사건의 폭로자 에드워드 스노든이 사용하고 있는걸로 알려진 Linux의 배포판입니다.
-  - [elementary OS](https://elementary.io/)는 Linux 배포판의 한 종류로, Window와 Mac의 대안 OS로 각광받고 있습니다.
+  - [elementary OS](https://elementary.io/)는 Ubuntu 기반으로 만들어진 Linux 배포판의 한 종류로, Window와 Mac의 대안 OS로 각광받고 있습니다.
 - 비밀번호를 사이트마다 다르게 설정하세요. 아무리 당신이 개인 정보를 철저하게 관리해도, 개인 정보를 가지고 있는 기업(서비스, 앱)에서 개인 정보가 유출된다면 아무런 소용이 없습니다.
   - 쉬운 관리를 위해 패스워드 관리 툴을 사용하세요
     - LastPass
