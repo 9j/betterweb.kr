@@ -104,11 +104,11 @@
       - Firefox의 [about:config에서 개인 정보와 관련된 설정을 변경](https://www.privacytools.io/browsers/#about_config)하세요
         - 소개된 설정중 일부는 고민해 봐야됩니다.
           - network.http.referer.XOriginPolicy
-            - [@0vv](https://github.com/0vv)는 이 설정을 1로 사용하고있습니다.
+            - 우리는 이 설정을 1로 권장하고있습니다.
           - network.http.referer.XOriginTrimmingPolicy
-            - [@0vv](https://github.com/0vv)는 이 설정을 0으로 사용하고있습니다.
+            - 우리는 이 설정을 0으로 권장하고있습니다.
           - browser.sessionstore.max_tabs_undo
-            - [@0vv](https://github.com/0vv)는 이 설정을 10으로 사용하고있습니다.
+            - 우리는 이 설정을 10으로 권장하고있습니다.
         - browser.search.region 을 US 로 변경하세요
     - [Brave](https://brave.com/) (recommend)
       - Tor network 사용모드가 내장되어 있습니다.
