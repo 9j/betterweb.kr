@@ -8,9 +8,9 @@
 
 웹은 당신의 동의 없이 당신의 개인 정보를 수집하고 활동을 감시합니다.
 
-때로는 수집한 개인 정보들이 유출되기도 합니다. 인터넷에서 개인 정보를 스스로 지키세요. 이 문서는 상시 업데이트 됩니다.
+때로는 수집한 개인 정보들이 유출되기도 합니다.
 
-![바깥은 혼자 돌아다니기엔 위험하단다](img/Untitled-644a7cec-d1f4-48bd-a0e6-7cbb40a6ba3c.png)
+인터넷에서 개인 정보를 스스로 지키세요. 이 문서는 상시 업데이트 됩니다.
 
 *우리의 문서를 읽고 사생활 보호에 친화적인 서비스로 바꾸세요*
 
@@ -133,9 +133,11 @@
       - 검열되는 국가들의 인터넷 사용자를 위해 당신이 브라우저로 Snowflake Proxy가 되어주세요
   - 자세히 알아 보고 싶다면 [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/test.md) 를 확인해보세요
 - 사생활 보호 친화적인 검색엔진을 사용하세요
-  - [Duckduckgo](https://duckduckgo.com/) (제일 한글검색 잘됨)
-  - [Qwant](https://www.qwant.com/)
   - [Startpage](https://www.startpage.com/)
+    - 에드워드 스노든이 추천한 검색엔진 입니다
+  - [Duckduckgo](https://duckduckgo.com/)
+    - `주의` 검색 개선의 목적으로 검색어를 익명으로 수집합니다.
+  - [Qwant](https://www.qwant.com/)
   - [searx](https://searx.me/)
 - [구글에서 벗어나세요](https://spreadprivacy.com/how-to-remove-google/)
   - 당신의 메일을 구글이 읽고 있습니다.
@@ -157,4 +159,4 @@
 
 ## 더 알아보기
 
-- [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/test.md)
+- [사생활 보호에 친화적인 브라우저는 무엇이 있을까요? (준비중)](./articles/browsers.md)
